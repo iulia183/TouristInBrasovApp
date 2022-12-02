@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tourist In Brasov</string>
+    <string name="open_name">Open Tourist in Brasov</string>
+    <string name="close_name">"Close Tourist in Brasov"</string>
+
+    <string name="facebook_app_id">835743724224948</string>
+    <string name="fb_login_protocol_scheme">fb835743724224948</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_bran">The famous Dracula’s Castle. Does this legendary vampire exist or not? For this…
+        one has to read a fantastical old library (old for centuries), watch all the existing movies about this subject,
+        and finally, do a reality check by testing the ground.</string>
+    <string name="prices_bran">Adult: 45 RON \nStudent: 25 RON</string>
+    <string name="program_bran">12pm - 4pm Mon \n9am - 4 pm Tue-Sun</string>
+</resources>

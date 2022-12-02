@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/nav_profile"
+            android:title="My Profile"/>
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/nav_home"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/nav_castle"
+            android:icon="@drawable/castle"
+            android:title="Castles and Citadels"/>
+
+        <item
+            android:id="@+id/nav_museum"
+            android:icon="@drawable/museum"
+            android:title="Museums"/>
+
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/restaurant"
+            android:title="Food"/>
+
+        <item
+            android:id="@+id/nav_nature"
+            android:icon="@drawable/forest"
+            android:title="Nature and sport"/>
+
+        <item
+            android:id="@+id/nav_fun"
+            android:icon="@drawable/garland"
+            android:title="Fun"/>
+
+        <item
+            android:id="@+id/nav_visit"
+            android:icon="@drawable/village"
+            android:title="Visit around"/>
+
+        <item
+            android:id="@+id/nav_scan"
+            android:icon="@drawable/nav_scan"
+            android:title="Scan Challenge"/>
+
+    </group>
+
+    <item
+        android:title="">
+
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_baseline_exit_to_app_24"
+                android:title="Logout"/>
+        </menu>
+
+    </item>
+
+</menu>

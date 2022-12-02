@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458380841236",
+    "project_id": "touristinbrasov-370d9",
+    "storage_bucket": "touristinbrasov-370d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458380841236:android:3062a13d10969a47e6b201",
+        "android_client_info": {
+          "package_name": "com.example.touristinbrasov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458380841236-cook8iks1ak1qmqn3qhohetatthklj6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCns0ciAL0ksQE-94iO-uM87RSkdXZfcQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458380841236-cook8iks1ak1qmqn3qhohetatthklj6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
