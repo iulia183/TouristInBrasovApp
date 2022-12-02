@@ -2,6 +2,8 @@
 
 APLICATIE LICENTA - Tourist in Brasov
 
+Videoul de prezentare este adaugat in resurse
+
 Contine:
  - Login (optiune de login si cu Facebook, dar si cu Google)
  - Register
